@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217202520436",
+    "firebase_url": "https://orbius-7e212.firebaseio.com",
+    "project_id": "orbius-7e212",
+    "storage_bucket": "orbius-7e212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217202520436:android:c5fdada73d068eb9defc21",
+        "android_client_info": {
+          "package_name": "com.skkarrty.orbius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217202520436-0tsmmb77ergn2tif01rq3ctpuenuodcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skkarrty.orbius",
+            "certificate_hash": "6d445017e842215006a1e3e097d728603dcb03f7"
+          }
+        },
+        {
+          "client_id": "217202520436-2f4kep3urln6vve22i3c0iqa5322glft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkt5ZrQ_6K_GaMhJsvhSFm3lAdP53FGQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217202520436-2f4kep3urln6vve22i3c0iqa5322glft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
